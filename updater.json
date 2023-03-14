@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.0.0_x64_en-US.msi.zip",
-  "version": "1.0.0",
-  "notes": "Initial",
-  "pub_date": "2023-03-10T03:58:00+01:00",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc1NKNCthbEluajBXUFE3Rjl5NUd0TUxZQUJ3S3dOMVJIN3JNUFE1Q2IwTU5XTk1LclpyYWNyeEROY0U4WmphYjhiUW5RdThMQ0R5eWpTL0oxYWtjSEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4NDE4MTAyCWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4wLjBfeDY0X2VuLVVTLm1zaS56aXAKQmM5YTdwWnRmMHRxSndTcXlLaTFudGp2N043Q2J0Q3BwczZ2MHJCT3ZjUHRwbE1vQTVESElHa1p3T2dFMlpCRWV5UjM2RGVuTEt1WXUzUG5STm5ORHc9PQo="
+  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.1.1_x64_en-US.msi.zip",
+  "version": "1.1.1",
+  "notes": "Small changes in the backend",
+  "pub_date": "2023-03-14T10:33:00+01:00",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc2NKYmp4RGZ5T25EbHR3aEtvWjB0WTBlTVhncFFyUmxWQ0RKMnFiNnpyS1VMYVpyOU5VNkhpSE1tbnB4SnNHT3NhWUpJS3BOODhpQjFPV3ZtZXhrY2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4Nzg2Mzc1CWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4xLjFfeDY0X2VuLVVTLm1zaS56aXAKbGVGN0k1M1h2ZmR1Mkk1YUNFRHBqdUU4Q0RGMmd1YmY1RHhLQXh3K1cxNDd5ZnowcUlKVG5FdUtGOTB0SDh4WmZJMW1oYmViNzNiUUFLNWJWaExVQ2c9PQo="
 }
