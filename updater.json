@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.1.1_x64_en-US.msi.zip",
-  "version": "1.1.1",
-  "notes": "Small changes in the backend",
-  "pub_date": "2023-03-14T10:33:00+01:00",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc2NKYmp4RGZ5T25EbHR3aEtvWjB0WTBlTVhncFFyUmxWQ0RKMnFiNnpyS1VMYVpyOU5VNkhpSE1tbnB4SnNHT3NhWUpJS3BOODhpQjFPV3ZtZXhrY2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4Nzg2Mzc1CWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4xLjFfeDY0X2VuLVVTLm1zaS56aXAKbGVGN0k1M1h2ZmR1Mkk1YUNFRHBqdUU4Q0RGMmd1YmY1RHhLQXh3K1cxNDd5ZnowcUlKVG5FdUtGOTB0SDh4WmZJMW1oYmViNzNiUUFLNWJWaExVQ2c9PQo="
+  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.2.0_x64_en-US.msi.zip",
+  "version": "1.2.0",
+  "notes": "The settings are now saved and loaded. Small changes and bug fixes",
+  "pub_date": "2023-03-14T14:31:14+00:00",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc1RpSlU3Q2pnYmd4N2dlb0drUDJDNG5SVWltTW9yQU52Q2c1MTBSRkJkZDdMZjBrMzFWSzBIQlhuZmZNYUVFUFAxYVVJMXZTS3V3UDlFSTZhQmx4R0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4ODA0MDczCWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4yLjBfeDY0X2VuLVVTLm1zaS56aXAKTmdQa0FSOUFTWU5rQU45YXY3MjNGMFBDS21qK2JLVVg2UTNkQzBLM01TN2pyYkswOVlXbzM0VndXNXVFamNRSnEzdHpKRm51STkxZmgxdzhNdkcyQnc9PQo="
 }
