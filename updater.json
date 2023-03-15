@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.2.0_x64_en-US.msi.zip",
-  "version": "1.2.0",
-  "notes": "The settings are now saved and loaded. Small changes and bug fixes",
-  "pub_date": "2023-03-14T14:31:14+00:00",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc1RpSlU3Q2pnYmd4N2dlb0drUDJDNG5SVWltTW9yQU52Q2c1MTBSRkJkZDdMZjBrMzFWSzBIQlhuZmZNYUVFUFAxYVVJMXZTS3V3UDlFSTZhQmx4R0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4ODA0MDczCWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4yLjBfeDY0X2VuLVVTLm1zaS56aXAKTmdQa0FSOUFTWU5rQU45YXY3MjNGMFBDS21qK2JLVVg2UTNkQzBLM01TN2pyYkswOVlXbzM0VndXNXVFamNRSnEzdHpKRm51STkxZmgxdzhNdkcyQnc9PQo="
+  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.3.0_x64_en-US.msi.zip",
+  "version": "1.3.0",
+  "notes": "Added mod refresh button to home. Content now loads correctly in the loading screen",
+  "pub_date": "2023-03-15T04:56:11+00:00",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc2U0UU44aVZWMEtUZUs4OERkRWhVVVQvQmpuaUI4WTZYRTJWVTV5TnRXMnI1RlduQldQbEdJUjdFYjhxSzFDOEdHYkk4aGVUMFpCZDk2NWpDNXJrRkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4ODU2MDM1CWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKNVJsTjdiRnBUME1QVlJkWjJ4RThqY0t6NkdlektaSkpzVUhVU2V6aGVkd3FmeTJzNlM2MEp5Vk1hSnVpNGxvMDJpNG9YUDcyZk9YdTNxbFJZZXMwQ0E9PQo="
 }
