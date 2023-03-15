@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.3.0_x64_en-US.msi.zip",
-  "version": "1.3.0",
-  "notes": "Added mod refresh button to home. Content now loads correctly in the loading screen",
-  "pub_date": "2023-03-15T04:56:11+00:00",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc2U0UU44aVZWMEtUZUs4OERkRWhVVVQvQmpuaUI4WTZYRTJWVTV5TnRXMnI1RlduQldQbEdJUjdFYjhxSzFDOEdHYkk4aGVUMFpCZDk2NWpDNXJrRkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4ODU2MDM1CWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS4zLjBfeDY0X2VuLVVTLm1zaS56aXAKNVJsTjdiRnBUME1QVlJkWjJ4RThqY0t6NkdlektaSkpzVUhVU2V6aGVkd3FmeTJzNlM2MEp5Vk1hSnVpNGxvMDJpNG9YUDcyZk9YdTNxbFJZZXMwQ0E9PQo="
+  "url": "https://github.com/playcoop/launcher-stuff/raw/main/playcoop-launcher_1.4.0_x64_en-US.msi.zip",
+  "version": "1.4.0",
+  "notes": "Fonts and styles are loaded locally. Fixed a bug where the mod list would redownload more frequently",
+  "pub_date": "2023-03-15T09:13:51+00:00",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY0pCejBoaUpJc2RWYWlLVXlobU1idXRvenNER1FxNEttVFBDUnJISnV6dzd2UVpsekhuLzNEdi9vcktVNEdFeG11Vkx2dUVGREt4Sm5mNWxlc0RLWjRyR3VBNjdaNVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4ODY5MDk3CWZpbGU6cGxheWNvb3AtbGF1bmNoZXJfMS40LjBfeDY0X2VuLVVTLm1zaS56aXAKZkNwTGlCWFEwK2RaZis0aGp2eElqTVk4TlBhd2JLU0VFYWtYQ3RZWnBVUDNPS1BkdVVyTEpZczQzL0x5Q3RTSmcrSnFxaE4vS2djWjdLazQzbThaQUE9PQo="
 }
